@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Python projects using Django**
 
-- 🌱 I’m currently learning **Django, ABBYY FlexiCapture**
+- 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **shubhansh2002@gmail.com**
 
