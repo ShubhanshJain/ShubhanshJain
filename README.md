@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Shubhansh Jain</h1>
 <h3 align="center">A Data Enthusiast, Python Developer, Coder and Certified Cloud Administartor</h3>
 
-- 🔭 I’m currently working as **Python-Django Developer**
+- 🔭 I’m currently working as **Back-End Developer**
 
 - 🌱 I’m currently learning **Django, Flask, Backend Development **
 
