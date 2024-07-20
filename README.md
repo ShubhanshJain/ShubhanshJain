@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Shubhansh Jain</h1>
-<h3 align="center">A Data Enthusiast, BackEnd Developer, Coder and Certified Cloud Administartor</h3>
+<h3 align="center">A GenAI Consultant, BackEnd Engineer, Coder and Certified Cloud Administartor</h3>
 
 - 🔭 I’m currently working as **Back-End Developer**
 
