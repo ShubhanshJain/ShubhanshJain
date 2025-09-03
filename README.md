@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubhansh Jain</h1>
-<h3 align="center">A passionate Backend - AI developer from India</h3>
+<h3 align="center">A Backend - AI developer from India</h3>
 
 - 🔭 I’m currently working on **AI applications & Django web servers**
 
